@@ -1,7 +1,7 @@
 Vegan and vegetarian food nutrition - the new food trends? 
 ========
-I developed an interest in the subject having come into contact with vegetarian and vegan lifestyles in my everyday life ever more often. 
-Nutrition is no longer a marginal phenomenon in today's world.
+My task was to create a visualization of the survey. I developed an interest in the subject having come into contact with vegetarian and vegan lifestyles in my everyday life ever more often. Nutrition is no longer a marginal phenomenon in today's world.
+
 
 This Project was made for the Input/Output
 
