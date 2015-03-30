@@ -1,0 +1,580 @@
+{
+"links": [
+{
+  "source":"male",
+  "target":"without having completed school",
+  "value":"5"
+},
+
+
+    {
+    "source":"male",
+    "target":"general Certificate of Secondary Education",
+    "value":"3"
+  },
+
+    {
+    "source":"male",
+    "target":"advanced technical college entrance qualification / vocational diploma",
+    "value":"1"
+  },
+
+    {
+    "source":"male",
+    "target":"university-entrance diploma",
+    "value":"13"
+  },
+
+    {
+    "source":"male",
+    "target":"vocational training",
+    "value":"2"
+  },
+
+    {
+    "source":"male",
+    "target":"university",
+    "value":"14"
+  },
+
+    {
+    "source":"female",
+    "target":"without having completed school",
+    "value":"5" 
+  },
+  {
+    "source":"female",
+    "target":"certificate of secondary education",
+    "value":"2"
+  },
+
+    {
+    "source":"female",
+    "target":"general Certificate of Secondary Education",
+    "value":"5"
+  },
+
+  {
+    "source":"female",
+    "target":"university-entrance diploma",
+    "value":"18"
+  },
+
+    {
+    "source":"female",
+    "target":"vocational training",
+    "value":"16"
+  },
+  {
+    "source":"female",
+    "target":"university",
+    "value":"31"
+  },
+
+    {
+    "source":"without having completed school",
+    "target":"vegetarian",
+    "value":"10"
+  },
+
+  {
+    "source":"general Certificate of Secondary Education",
+    "target":"vegetarian",
+    "value":"4"
+  },
+
+    {
+    "source":"university-entrance diploma",
+    "target":"vegetarian",
+    "value":"5"
+  },
+  {
+    "source":"vocational training",
+    "target":"vegetarian",
+    "value":"6"
+  },
+  {
+    "source":"university",
+    "target":"vegetarian",
+    "value":"17"
+  },
+
+
+  {
+    "source":"certificate of secondary education",
+    "target":"vegan",
+    "value":"2"
+  },
+  {
+    "source":"general Certificate of Secondary Education",
+    "target":"vegan",
+    "value":"2"
+  },
+
+  {
+    "source":"university-entrance diploma",
+    "target":"vegan",
+    "value":"9"
+  },
+
+    {
+    "source":"vocational training",
+    "target":"vegan",
+    "value":"9"
+  },
+  {
+    "source":"university",
+    "target":"vegan",
+    "value":"10"
+  },
+
+  {
+    "source":"general Certificate of Secondary Education",
+    "target":"pescetarian",
+    "value":"1"
+  },
+
+  {
+    "source":"university-entrance diploma",
+    "target":"pescetarian",
+    "value":"1"
+  },
+  {
+    "source":"university",
+    "target":"pescetarian",
+    "value":"2"
+  },
+
+  {
+    "source":"university-entrance diploma",
+    "target":"all-eater",
+    "value":"6"
+  },
+  {
+    "source":"vocational training",
+    "target":"all-eater",
+    "value":"1"
+  },
+  {
+    "source":"university",
+    "target":"all-eater",
+    "value":"8"
+  },
+
+  {
+    "source":"general Certificate of Secondary Education",
+    "target":"all-eater, but eating less meat",
+    "value":"1"
+  },
+  {
+    "source":"advanced technical college entrance qualification / vocational diploma",
+    "target":"all-eater, but eating less meat",
+    "value":"1"
+  },
+  {
+    "source":"university-entrance diploma",
+    "target":"all-eater, but eating less meat",
+    "value":"10"
+  },
+  {
+    "source":"vocational training",
+    "target":"all-eater, but eating less meat",
+    "value":"2"
+  },
+  {
+    "source":"university",
+    "target":"all-eater, but eating less meat",
+    "value":"8"
+  },
+  {
+    "source":"vegan",
+    "target":"seeking work",
+    "value":"1"
+  },
+  {
+    "source":"pescetarian",
+    "target":"seeking work",
+    "value":"1"
+  },
+  {
+    "source":"all-eater, but eating less meat",
+    "target":"seeking work",
+    "value":"1"
+  },
+
+    {
+    "source":"vegetarian",
+    "target":"employed",
+    "value":"13"
+  },
+  {
+    "source":"vegan",
+    "target":"employed",
+    "value":"20"
+  },
+  {
+    "source":"pescetarian",
+    "target":"employed",
+    "value":"2"
+  },
+  {
+    "source":"all-eater",
+    "target":"employed",
+    "value":"8"
+  },
+  {
+    "source":"all-eater, but eating less meat",
+    "target":"employed",
+    "value":"9"
+  },
+
+    {
+    "source":"vegetarian",
+    "target":"self-employed",
+    "value":"5"
+  },
+  {
+    "source":"vegan",
+    "target":"self-employed",
+    "value":"5"
+  },
+  {
+    "source":"all-eater",
+    "target":"self-employed",
+    "value":"1"
+  },
+  {
+    "source":"all-eater, but eating less meat",
+    "target":"self-employed",
+    "value":"1"
+  },
+
+    {
+    "source":"vegetarian",
+    "target":"pupil",
+    "value":"3"
+  },
+  {
+    "source":"vegan",
+    "target":"pupil",
+    "value":"2"
+  },
+  {
+    "source":"pescetarian",
+    "target":"pupil",
+    "value":"1"
+  },
+
+  {
+    "source":"all-eater, but eating less meat",
+    "target":"pupil",
+    "value":"1"
+  },
+    {
+    "source":"vegetarian",
+    "target":"student",
+    "value":"15"
+  },
+  {
+    "source":"vegan",
+    "target":"student",
+    "value":"4"
+  },
+  {
+    "source":"pescetarian",
+    "target":"student",
+    "value":"1"
+  },
+  {
+    "source":"all-eater",
+    "target":"student",
+    "value":"8"
+  },
+  {
+    "source":"all-eater, but eating less meat",
+    "target":"student",
+    "value":"13"
+  },
+
+  {
+    "source":"all-eater, but eating less meat",
+    "target":"vocational training II",
+    "value":"1"
+  },
+
+  {
+    "source":"pupil",
+    "target":"0 - 100 €",
+    "value":"3"
+  },
+  {
+    "source":"student",
+    "target":"0 - 100 €",
+    "value":"4"
+  },
+
+    {
+    "source":"seeking work",
+    "target":"100 - 500 €",
+    "value":"1"
+  },
+  {
+    "source":"employed",
+    "target":"100 - 500 €",
+    "value":"2"
+  },
+  {
+    "source":"self-employed",
+    "target":"100 - 500 €",
+    "value":"1"
+  },
+
+  {
+    "source":"pupil",
+    "target":"100 - 500 €",
+    "value":"3"
+  },
+  {
+    "source":"student",
+    "target":"100 - 500 €",
+    "value":"18"
+  },
+    {
+    "source":"seeking work",
+    "target":"500 - 1000 €",
+    "value":"2"
+  },
+  {
+    "source":"employed",
+    "target":"500 - 1000 €",
+    "value":"6"
+  },
+  {
+    "source":"self-employed",
+    "target":"500 - 1000 €",
+    "value":"4"
+  },
+  {
+    "source":"pupil",
+    "target":"500 - 1000 €",
+    "value":"1"
+  },
+  {
+    "source":"student",
+    "target":"500 - 1000 €",
+    "value":"18"
+  },
+  {
+    "source":"vocational training II",
+    "target":"500 - 1000 €",
+    "value":"2"
+  },
+  {
+    "source":"employed",
+    "target":"1000 - 2000 €",
+    "value":"29"
+  },
+  {
+    "source":"self-employed",
+    "target":"1000 - 2000 €",
+    "value":"2"
+  },
+
+  {
+    "source":"student",
+    "target":"1000 - 2000 €",
+    "value":"1"
+  },
+  {
+    "source":"vocational training II",
+    "target":"1000 - 2000 €",
+    "value":"1"
+  },
+
+    {
+    "source":"employed",
+    "target":"2000 - 4000 €",
+    "value":"15"
+  },
+  {
+    "source":"self-employed",
+    "target":"2000 - 4000 €",
+    "value":"4"
+  },
+
+    {
+    "source":"self-employed",
+    "target":"more than 4000 €",
+    "value":"1"
+  },
+  {
+    "source":"0 - 100 €",
+    "target":"industrial livestock farming",
+    "value":"1"
+  },
+  {
+    "source":"100 - 500 €",
+    "target":"industrial livestock farming",
+    "value":"9"
+  },
+  {
+    "source":"500 - 1000 €",
+    "target":"industrial livestock farming",
+    "value":"14"
+  },
+  {
+    "source":"1000 - 2000 €",
+    "target":"industrial livestock farming",
+    "value":"11"
+  },
+  {
+    "source":"2000 - 4000 €",
+    "target":"industrial livestock farming",
+    "value":"3"
+  },
+
+  {
+    "source":"100 - 500 €",
+    "target":"environment protection",
+    "value":"3"
+  },
+  {
+    "source":"500 - 1000 €",
+    "target":"environment protection",
+    "value":"5"
+  },
+  {
+    "source":"1000 - 2000 €",
+    "target":"environment protection",
+    "value":"11"
+  },
+  {
+    "source":"2000 - 4000 €",
+    "target":"environment protection",
+    "value":"3"
+  },
+  {
+    "source":"0 - 100 €",
+    "target":"world hunger",
+    "value":"1"
+  },
+
+  {
+    "source":"2000 - 4000 €",
+    "target":"world hunger",
+    "value":"1"
+  },
+
+  {
+    "source":"0 - 100 €",
+    "target":"health",
+    "value":"2"
+  },
+  {
+    "source":"100 - 500 €",
+    "target":"health",
+    "value":"6"
+  },
+  {
+    "source":"500 - 1000 €",
+    "target":"health",
+    "value":"4"
+  },
+  {
+    "source":"1000 - 2000 €",
+    "target":"health",
+    "value":"8"
+  },
+  {
+    "source":"2000 - 4000 €",
+    "target":"health",
+    "value":"7"
+  },
+
+  {
+    "source":"100 - 500 €",
+    "target":"because organic food doesn't help",
+    "value":"1"
+  },
+
+  {
+    "source":"2000 - 4000 €",
+    "target":"because organic food doesn't help",
+    "value":"3"
+  },
+
+  {
+    "source":"0 - 100 €",
+    "target":"wonderful animals",
+    "value":"2"
+  },
+  {
+    "source":"100 - 500 €",
+    "target":"wonderful animals",
+    "value":"3"
+  },
+  {
+    "source":"500 - 1000 €",
+    "target":"wonderful animals",
+    "value":"4"
+  },
+  {
+    "source":"1000 - 2000 €",
+    "target":"wonderful animals",
+    "value":"8"
+  },
+  {
+    "source":"2000 - 4000 €",
+    "target":"wonderful animals",
+    "value":"5"
+  },
+  {
+    "source":"more than 4000 €",
+    "target":"wonderful animals",
+    "value":"1"
+  }
+
+
+] ,
+
+
+"nodes": [
+
+
+
+{"name":"male"},
+{"name":"female"},
+{"name":"without having completed school"},
+{"name":"certificate of secondary education"},
+{"name":"general Certificate of Secondary Education"},
+{"name":"advanced technical college entrance qualification / vocational diploma"},
+{"name":"university-entrance diploma"},
+{"name":"vocational training"},
+{"name":"university"},
+{"name":"vegetarian"},
+{"name":"vegan"},
+{"name":"pescetarian"},
+{"name":"all-eater"},
+{"name":"all-eater, but eating less meat"},
+{"name":"seeking work"},
+{"name":"employed"},
+{"name":"self-employed"},
+{"name":"pupil"},
+{"name":"student"},
+{"name":"vocational training II"},
+{"name":"0 - 100 €"},
+{"name":"100 - 500 €"},
+{"name":"500 - 1000 €"},
+{"name":"1000 - 2000 €"},
+{"name":"2000 - 4000 €"},
+{"name":"more than 4000 €"},
+{"name":"industrial livestock farming"},
+{"name":"environment protection"},
+{"name":"world hunger"},
+{"name":"health"},
+{"name":"because organic food doesn't help"},
+{"name":"wonderful animals"}
+
+] }
+
+
