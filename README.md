@@ -3,8 +3,8 @@ Data Visualization
 I was conducting a survey for vegetarians, vegans and other food groups - aren’t they the new food trends? 
 
 #####[Survey] (https://docs.google.com/forms/d/1rqOW12mfXQknw8iC6XOI_2eunaqcSr45njMmTjPR9fg/viewform?c=0&w=1)
-#####[My 1. result] (vispalberlin.github.io/result.html)
-#####[My 2. result] (vispalberlin.github.io/result2.html)
+#####[My 1. result] (https://vispalberlin.github.io/result.html)
+#####[My 2. result] (https://vispalberlin.github.io/result2.html)
 
 This Project was made for the Input/Output
 
