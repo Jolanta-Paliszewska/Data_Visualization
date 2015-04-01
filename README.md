@@ -4,7 +4,7 @@ My task was to create a visualization of the survey. I developed an interest in 
 
 [Survey] (https://docs.google.com/forms/d/1rqOW12mfXQknw8iC6XOI_2eunaqcSr45njMmTjPR9fg/viewform?c=0&w=1)
 
-![image] (screen.png)
+![image] (SankeyDiagram_2/screen.png)
 This Project was made for the Input/Output
 
 University of applied sciences in Potsdam 
